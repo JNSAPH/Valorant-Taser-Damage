@@ -3,9 +3,9 @@ I am a masochist, so I decided to write a quick, hacky thing that tases me in re
 
 I don't expect anyone to ever use this, so I didn't bother writing an exact guide on how to build this yourself, since, let's be honest, you probably shouldn't. If, for whatever reason, you still want to do this, here are some pics of the wiring.
 
-![Showing Bradboard](./assets/IMG_4023.JPG)
+![Showing Bradboard](https://github.com/JNSAPH/Valorant-Taser-Damage/blob/main/assets/IMG_4023.JPEG)
 
-![Close up of Arduino](./assets/IMG_4024.JPG)
+![Close up of Arduino](https://github.com/JNSAPH/Valorant-Taser-Damage/blob/main/assets/IMG_4024.JPEG)
 
 
 As for the code path, if you're on a 1080p 16:9 monitor, you probably don't have to do much except change Line 10 (COM) to whatever your Arduino is plugged into. For other monitor sizes, you probably have to adjust the region to the position of wherever your HP is displayed.
